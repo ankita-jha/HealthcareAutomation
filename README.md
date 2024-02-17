@@ -39,3 +39,5 @@
 - Pratik Hariya       002929941
 - Parth Kataria       002964611
 
+<img width="570" alt="image" src="https://github.com/ankita-jha/HealthcareAutomation/assets/98490276/b0f9181b-4f67-4245-a6e5-e3e5f8e10be2">
+
